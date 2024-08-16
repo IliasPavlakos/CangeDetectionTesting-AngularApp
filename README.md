@@ -1,5 +1,7 @@
 # ChangeDetectionDeepDive
 
+**Check the app live at https://iliaspavlakos.github.io/CangeDetectionTesting-AngularApp/**
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
 
 ## Development server
